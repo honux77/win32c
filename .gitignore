@@ -15,3 +15,11 @@
 *.exe
 *.out
 *.app
+
+# for vim
+*.swp
+
+# for vs11
+*.sdf
+*.suo
+Debug/
